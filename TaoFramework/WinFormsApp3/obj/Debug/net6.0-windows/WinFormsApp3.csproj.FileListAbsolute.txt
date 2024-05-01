@@ -1,0 +1,7 @@
+D:\OpenGL\TaoFramework\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+D:\OpenGL\TaoFramework\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.Form1.resources
+D:\OpenGL\TaoFramework\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+D:\OpenGL\TaoFramework\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\OpenGL\TaoFramework\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+D:\OpenGL\TaoFramework\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.AssemblyInfo.cs
+D:\OpenGL\TaoFramework\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
