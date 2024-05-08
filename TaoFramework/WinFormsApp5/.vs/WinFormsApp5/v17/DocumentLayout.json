@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{6E9CD040-1098-4213-8872-39EBE99D76BA}|WinFormsApp5.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6E9CD040-1098-4213-8872-39EBE99D76BA}|WinFormsApp5.csproj|d:\\opengl\\taoframework\\winformsapp5\\winformsapp5.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6E9CD040-1098-4213-8872-39EBE99D76BA}|WinFormsApp5.csproj|solutionrelative:winformsapp5.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6E9CD040-1098-4213-8872-39EBE99D76BA}|WinFormsApp5.csproj|D:\\OpenGL\\TaoFramework\\WinFormsApp5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6E9CD040-1098-4213-8872-39EBE99D76BA}|WinFormsApp5.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -18,8 +22,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WinFormsApp5",
+              "DocumentMoniker": "D:\\OpenGL\\TaoFramework\\WinFormsApp5\\WinFormsApp5.csproj",
+              "RelativeDocumentMoniker": "WinFormsApp5.csproj",
+              "ToolTip": "D:\\OpenGL\\TaoFramework\\WinFormsApp5\\WinFormsApp5.csproj",
+              "RelativeToolTip": "WinFormsApp5.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-08T21:45:15.119Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,21 +44,22 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "D:\\OpenGL\\TaoFramework\\WinFormsApp5\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
+              "ViewState": "AQIAACEBAAAAAAAAAAAqwDABAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-27T09:19:48.022Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "DocumentMoniker": "D:\\OpenGL\\TaoFramework\\WinFormsApp5\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "D:\\OpenGL\\TaoFramework\\WinFormsApp5\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T09:19:04.53Z"
+              "WhenOpened": "2024-03-27T09:19:04.53Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
             }
           ]
         }
