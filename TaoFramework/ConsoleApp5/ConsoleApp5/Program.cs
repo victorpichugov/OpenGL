@@ -85,7 +85,7 @@ namespace LearnOpenTK_2
 
                 // Векторы right, up доджны быть единичной длины для согласованности движения камеры и ее поворота. 
 
-
+                
                 if (args.Key == Keys.Escape)
                 {
                     Console.WriteLine(Keys.Escape.ToString());
@@ -94,9 +94,9 @@ namespace LearnOpenTK_2
 
                 // Handle keyboard input for camera movement
                 if (args.Key == Keys.Up)
-                    cameraPosition += cameraSpeed * direction;
+                    cameraPosition += cameraSpeed * up;
                 if (args.Key == Keys.Down)
-                    cameraPosition -= cameraSpeed * direction;
+                    cameraPosition -= cameraSpeed * up;
                 if (args.Key == Keys.Left)
                     cameraPosition -= cameraSpeed * right;
                 if (args.Key == Keys.Right)
